@@ -1,0 +1,16 @@
+This was the group project for which two Technical Systems Analyst and two Business Systems Analyst were grouped.
+The challenge was to build an application for international students that can help them in both financial and non-financial ways.
+
+Here is the link of the repo: https://rbcgithub.fg.rbc.com/AIH0/W2020_Team11
+
+** Note ** This link can only be accessed inside the RBC network.
+
+Here is some description of the project:
+STUDY & CONNECT, WINTER 2020 INNOVATION CHALLENGE, (JAN 2020 – APR 2020)
+ROYAL BANK OF CANADA, TORONTO, ON.
+> Took part in a group project to build an application for international students to
+strengthen the relationship with them in both financial and non-financial ways.
+> Developed a static web application full of resources and access to the community for
+international students to access.
+> Utilized new technologies like HTML, jQuery, CSS etc. to develop an ultimate
+package complete of resources and networking opportunities.
